@@ -8,7 +8,7 @@
 #define SERVER_ADDR "127.0.0.1"
 #define SERVER_PORT 8080
 #define RECV_BUF_SIZE 2048
-#define PUBLIC_DIR 
+#define PUBLIC_DIR "public"
 #define OPEN_FILE "index.html"
 
 int create_server_socket() {
